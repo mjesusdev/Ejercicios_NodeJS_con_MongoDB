@@ -1,0 +1,22 @@
+{
+  "name": "ejercicios_nodejs_con_mongodb",
+  "version": "1.0.0",
+  "description": "Ejercicios de Nodejs con mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjesusoj/Ejercicios_NodeJS_con_MongoDB.git"
+  },
+  "author": "mjesusoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjesusoj/Ejercicios_NodeJS_con_MongoDB/issues"
+  },
+  "homepage": "https://github.com/mjesusoj/Ejercicios_NodeJS_con_MongoDB#readme",
+  "dependencies": {
+    "mongodb": "^3.5.3"
+  }
+}

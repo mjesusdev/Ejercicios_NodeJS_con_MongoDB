@@ -1,0 +1,31 @@
+[ 
+    {
+        "nombre" : "Óscar",
+        "apellidos" : "Rojiblanco Pérez",
+        "nota" : "5"
+    },
+
+    {
+        "nombre" : "Manolo",
+        "apellidos" : "Pérez Pérez",
+        "nota" : "7"
+    },
+
+    {
+        "nombre" : "Óscar",
+        "apellidos" : "Periáñez Pérez",
+        "nota" : "2"
+    },
+
+    {
+        "nombre" : "Oliveira",
+        "apellidos" : "Pérez Pérez",
+        "nota" : "8"
+    },
+    
+    {
+        "nombre" : "Sergio",
+        "apellidos" : "Mora Pérez",
+        "nota" : "10"
+    }       
+]
