@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mjesusoj/Ejercicios_NodeJS_con_MongoDB#readme",
   "dependencies": {
-    "mongodb": "^3.5.3"
+    "mongodb": "^3.7.4"
   }
 }
